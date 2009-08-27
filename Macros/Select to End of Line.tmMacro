@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>moveToEndOfLineAndModifySelection:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>$@</string>
+	<key>name</key>
+	<string>Select to End of Line</string>
+	<key>uuid</key>
+	<string>92C34F52-6F9D-42C1-993B-D48711C91D8A</string>
+</dict>
+</plist>

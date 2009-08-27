@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>moveToEndOfDocument:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>@</string>
+	<key>name</key>
+	<string>Move to End of Document</string>
+	<key>uuid</key>
+	<string>99D07666-D983-48CF-95ED-515104577445</string>
+</dict>
+</plist>

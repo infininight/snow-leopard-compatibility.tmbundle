@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>moveToBeginningOfDocumentAndModifySelection:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>$@</string>
+	<key>name</key>
+	<string>Select to Beginning of Document</string>
+	<key>uuid</key>
+	<string>9534F09C-1B36-4188-A48F-198BE9E0B368</string>
+</dict>
+</plist>

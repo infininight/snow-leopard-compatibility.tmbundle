@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>F6FFD7D4-183C-4742-83BC-8277731A2E36</string>
+			<string>92C34F52-6F9D-42C1-993B-D48711C91D8F</string>
+			<string>F6FFD7D4-183C-4742-83BC-8277731A2E37</string>
+			<string>92C34F52-6F9D-42C1-993B-D48711C91D8A</string>
+			<string>------------------------------------</string>
+			<string>3E3063C8-3998-468C-8D12-C5EC3D3F6BDE</string>
+			<string>99D07666-D983-48CF-95ED-515104577445</string>
+			<string>9534F09C-1B36-4188-A48F-198BE9E0B368</string>
+			<string>B5B614B1-3158-4281-97D9-724ABED2B247</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>Snow Leopard Compatibility</string>
+	<key>ordering</key>
+	<array>
+		<string>F6FFD7D4-183C-4742-83BC-8277731A2E36</string>
+		<string>92C34F52-6F9D-42C1-993B-D48711C91D8F</string>
+		<string>F6FFD7D4-183C-4742-83BC-8277731A2E37</string>
+		<string>92C34F52-6F9D-42C1-993B-D48711C91D8A</string>
+		<string>3E3063C8-3998-468C-8D12-C5EC3D3F6BDE</string>
+		<string>99D07666-D983-48CF-95ED-515104577445</string>
+		<string>9534F09C-1B36-4188-A48F-198BE9E0B368</string>
+		<string>B5B614B1-3158-4281-97D9-724ABED2B247</string>
+	</array>
+	<key>uuid</key>
+	<string>9E9F8EA5-2795-48F7-B89B-B0BD360C3AD5</string>
+</dict>
+</plist>
